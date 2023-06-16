@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FarmerApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/padi_primary</item>
+        <item name="colorPrimaryDark">@color/padi_primary_dark</item>
+        <item name="colorAccent">@color/padi_accent</item>
+
+        <!-- Warna tombol login -->
+        <item name="colorButtonNormal">@color/padi_button_login</item>
+        <!-- Tambahan item-item lainnya -->
+    </style>
+</resources>

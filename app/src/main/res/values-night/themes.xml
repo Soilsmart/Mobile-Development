@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FarmerApp" parent="Theme.AppCompat.DayNight">
+        <!-- Konfigurasi dark mode -->
+        <item name="android:forceDarkAllowed">true</item>
+        <item name="android:windowBackground">@color/padi_dark_background</item>
+        <!-- Warna khusus dalam mode dark -->
+        <item name="colorPrimary">@color/padi_dark_primary</item>
+        <item name="colorAccent">@color/padi_dark_accent</item>
+    </style>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753580196548",
+    "project_id": "soilsmart",
+    "storage_bucket": "soilsmart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753580196548:android:ef6f95f7846d49b4e33f91",
+        "android_client_info": {
+          "package_name": "com.azkaisnandaru.farmerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753580196548-p17beee7n8gvlt1mn3uuj9o50697vqa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4IoxOJ7GoJwG3yl1MCXC5dMWMR-9vTrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753580196548-p17beee7n8gvlt1mn3uuj9o50697vqa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
